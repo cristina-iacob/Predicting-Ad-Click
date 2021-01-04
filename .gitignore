@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Mac files
-.DS
+.DS_Store
